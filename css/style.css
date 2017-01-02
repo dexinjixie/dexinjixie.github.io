@@ -195,7 +195,7 @@ span.menu {
 }
 /*--banner start here--*/
 .banner {
-  background: url(../images/tr1.jpg)no-repeat center;
+  background: url(../pictures/banner.jpg)no-repeat center;
   min-height: 600px;
   background-size: cover;
 }
