@@ -497,7 +497,7 @@ span.ab-line {
   position: relative;
 }
 .ab-info {
-  padding: 4em 0em 4em 0em;
+  padding: 3em 0em 3em 0em;
   background: #F0F0F0;
 }
 /*--ab-info end here--*/
@@ -1706,4 +1706,35 @@ button.btn.btn-lg {
   top: -22px;
   padding: 0px;
 }
+}
+
+/*--- patent  ---*/
+.patent {
+  padding: 3em 0em 3em 0em;
+}
+
+.patent h4 {
+  font-size: 3em;
+  color: #f8565d;
+  margin: 0em 0em 0.2em 0em;
+  font-family: 'MontserratAlternates-Regular';
+}
+
+.patent h5{
+   font-size: 1.2em;
+   color: #b4b4b4;
+   margin: 0em 0em 1em 0em;
+   text-align: left;
+}
+
+.patent-top {
+  padding: 0em 0em 3em 0em;
+  text-align: center;
+}
+
+.patent h6{
+   font-size: 1.5em;
+   color: #000;
+   margin: 0em 0em 1em 0em;
+   text-align: center;
 }
