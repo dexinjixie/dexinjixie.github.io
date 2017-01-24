@@ -659,7 +659,7 @@ span.glyphicon.glyphicon-cutlery{
 .gallery-top h3 {
   font-size: 3em;
   font-weight: 400;
-  color:#3A3A3A;
+  color:#f8565d;
   margin: 0px 0px 15px 0px;
   font-family: 'MontserratAlternates-Regular';
 }
@@ -1569,6 +1569,7 @@ span.ab-line {
 }
 .gallery-top h3 {
   font-size: 1.8em;
+  color:#f8565d; 
 }
 .gallery {
   padding: 1em 0em 1em 0em;
